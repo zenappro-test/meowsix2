@@ -356,8 +356,9 @@
   "@alertNoPlaylistZENJu": {
     "description": "Alert content of no playlist data existing when clicking Edit Playlist button on Playlist Menu Page"
   },
-  "meowsixapp": "MeowSixAPP",
+  "meowsixapp": "MeowSixAPP [zht]",
   "@meowsixapp": {
     "description": "MeowSixAPP"
   }
+
 }
